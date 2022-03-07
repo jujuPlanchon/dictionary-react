@@ -13,7 +13,16 @@ function App() {
         <main>
           <Dictionary defaultKeyword="travel" />
         </main>
-        <footer className="App-footer">Coded by Julia Planchon</footer>
+        <footer className="App-footer">
+          Coded by Julia Planchon and it's an open source code at{" "}
+          <a
+            href="https://https://github.com/jujuPlanchon/dictionary-react"
+            target="_blank"
+            rel="noreferrer"
+          >
+            GitHub
+          </a>
+        </footer>
       </div>
     </div>
   );

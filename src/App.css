@@ -6,6 +6,7 @@ body #root {
 .App {
   max-width: 960px;
   margin: 10px auto;
+  font-family: "Fredoka" sans-serif;
 }
 
 .App-logo {
@@ -16,4 +17,10 @@ body #root {
 
 .App-footer {
   text-align: center;
+}
+.App-footer a {
+  text-decoration: none;
+  color: black;
+  opacity: 0.5;
+  font-weight: bold;
 }
