@@ -9,10 +9,9 @@ function App() {
       <div className="App">
         <header className="App-header">
           <img src={Wild} className="img-fluid App-logo" alt="logo" />
-          <h1 className="mt-5">Dictionary App</h1>
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="travel" />
         </main>
         <footer className="App-footer">Coded by Julia Planchon</footer>
       </div>
