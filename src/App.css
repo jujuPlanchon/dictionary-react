@@ -5,14 +5,15 @@ body #root {
 
 .App {
   max-width: 960px;
-  margin: 10px auto;
+
   font-family: "Poppins", sans-serif;
 }
 
 .App-logo {
   width: 200px;
   display: block;
-  margin: 0 auto;
+  margin: auto;
+  padding: 20px;
 }
 
 .App-footer {
