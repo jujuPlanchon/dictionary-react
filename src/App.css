@@ -1,10 +1,11 @@
 body #root {
   background: #dddbde;
+  margin: 0 auto;
 }
 
 .App {
   max-width: 960px;
-  margin: 0 auto;
+  margin: 10px auto;
 }
 
 .App-logo {
